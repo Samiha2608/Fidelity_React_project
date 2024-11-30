@@ -31,7 +31,7 @@ import SoGEABroardband from './pages/SoGEABroadband';
 import FibrePremises from './pages/FibrePremises';
 import LeasedLineFibre from './pages/LeasedLineFibre';
 import IoTStarterPack from './pages/IoTStarterPack';
-import VM2M from './pages/vM2M';
+import VM2M from './pages/VM2M';
 import VoiceOverIP from './pages/VoiceOverIP';
 import TrunkCallManager from './pages/TrunkCallManager';
 import NonGeographicNumbers from './pages/NonGeographicNumbers';
