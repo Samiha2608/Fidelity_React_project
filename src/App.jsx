@@ -17,7 +17,7 @@ import EmergencyLocation from './pages/EmergencyLocation';
 import CloudFault from './pages/CloudFault';
 import Connectivity from './pages/Connectivity';
 import IoT from './pages/IoT';
-import Voice from './pages/voice';
+import Voice from './pages/Voice';
 import Payments from './pages/Payments';
 import { Provider } from 'react-redux';
 import store from './redux/store';
